@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Invect1ved" width="900"/>
-
 <img src="assets/svyaz-gives-me-power.jpg" alt="Связь придает мне силы" width="900"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&lines=Linux+%C2%B7+eBPF+%C2%B7+Kotlin+%C2%B7+Flutter;packets+in.+process+out." alt="Linux · eBPF · Kotlin · Flutter"/>
